@@ -1,5 +1,7 @@
 {
-  "version": null,
+  "name": "base-tw-colors",
+  "author": "Diego Arrieta",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -31,8 +33,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "base-tw-colors",
-  "author": "Diego Arrieta",
   "module": "dist/tailwindcss-colors.esm.js",
   "repository": {
     "type": "git",
